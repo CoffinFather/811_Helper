@@ -8,4 +8,4 @@ text_to_csv.py
 Run your query on managetickets.com to get the data you want to use, copy the raw data into a text file and save. Run text_to_csv.py against the file with the raw copied data to get a file that is organized in comma separated value format. Note that your original text file must have the data organzied by TABS, not spaces, just as is copied from managetickets.com
 
 graph.py
-Run graph.py with your .csv file you created to turn your .csv data into a graph, whcih saves as a .png image file.
+Run graph.py with your .csv file you created to turn your .csv data into a graph, which saves as a .png image file.
