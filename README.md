@@ -1,5 +1,6 @@
 # Oregon_811_Helper
 A helper program to organize and chart 811 emergency ticket data.
+It will work in any state that uses managetickets.com for 811 data.
 
 This program was built to organize 811 data from managetickets.com into graphs, for easy visualization of emergency ticket numbers. It is designed with some hardcoded strings for dealing with emergencies, but this could be forked to deal with a different use-case. 
 USAGE:
